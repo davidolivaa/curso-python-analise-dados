@@ -1,2 +1,2 @@
 # curso-python-analise-dados
- Neste repositório sera documentado todo o estudo e conhecimento adquirido no curso da DSA, além dos projetos postados
+ Neste repositório será documentado todo o estudo e conhecimento adquirido no curso de python para análise de dados da DSA, além de ter os projetos postados
